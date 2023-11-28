@@ -1,7 +1,7 @@
 ### Hello! I am Sean Hui
 #### I am a Cloud Engineer
 
-I am a Junior DevOps Engineer and a certified AWS Solutions Architect Associate. I am continously working on delivering high-quality and scalable solutions. With a solid foundation in deploying and managing infrastructure using HashiCorp Terraform and Jenkins, I bring valuable experience in AWS services, Docker, Linux, LDAP, and more.
+I am a Junior DevOps Engineer and a certified AWS Solutions Architect Associate. I am continously working on delivering high-quality and scalable solutions. With a solid foundation in deploying and managing infrastructure using HashiCorp Terraform and Jenkins, I bring valuable experience in AWS services, Docker, Linux, and more.
 
 **Technical Expertise**
 * Infrastructure as Code (IaC): Proficient in HashiCorp Terraform and CloudFormation for seamless deployment and management.
