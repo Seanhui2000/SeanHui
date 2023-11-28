@@ -25,8 +25,8 @@ I am a Junior DevOps Engineer and a certified AWS Solutions Architect Associate.
 
 
 -------------
-Sean Hui
+👨‍🎓Sean Hui
 
-LinkedIn: www.linkedin.com/in/sean-hui-698463185
+🌐LinkedIn: www.linkedin.com/in/sean-hui-698463185
 
-Email: Seanhui83@gmail.com
+📧Email: Seanhui83@gmail.com
